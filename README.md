@@ -8,7 +8,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/getswell/getswell/issues)
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Swell-%20For%20all%20your%20streaming%20API%20testing%20needs&url=https://www.getswell.io&hashtags=SSE,WebSocket,HTTP,API,developers)
 
-Swell is a API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC.
+Swell is an API development tool that enables developers to test endpoints served over streaming technologies including Server-Sent Events (SSE), WebSockets, HTTP2, GraphQL and gRPC.
 
 ## Getting Started
 
@@ -76,7 +76,7 @@ Swell is a one-stop shop for sending and monitoring your API requests
 
 ## Additional Features
 
-- _Send Request Directly to Endpoint_: You are able to immedeately send a request to an endpoint OR stage a request in your workspace for multi-level testing.
+- _Send Request Directly to Endpoint_: You are able to immediately send a request to an endpoint OR stage a request in your workspace for multi-level testing.
   <kbd><img src="./ReadMeGifs/Gifs/DirectSendRequest.gif"
        style="float: left; margin-right: 10px; margin-bottom : 30px; margin-top : 10px; border: 1px solid black;" /></kbd>
 - _Scripting in Swell_: Swell allows you to write assertion tests to aid in the test-driven development cycle of backend API services.
